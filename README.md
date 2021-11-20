@@ -2,6 +2,8 @@
 
 Aplicativo Conversor de Moedas
 
+Aplicativo desenvolvido em Flutter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
